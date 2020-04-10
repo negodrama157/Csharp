@@ -1,0 +1,7 @@
+C:\Users\adalb\source\repos\Csharp\Csharp\bin\Debug\Csharp.exe.config
+C:\Users\adalb\source\repos\Csharp\Csharp\bin\Debug\Csharp.exe
+C:\Users\adalb\source\repos\Csharp\Csharp\bin\Debug\Csharp.pdb
+C:\Users\adalb\source\repos\Csharp\Csharp\obj\Debug\Csharp.csprojAssemblyReference.cache
+C:\Users\adalb\source\repos\Csharp\Csharp\obj\Debug\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\adalb\source\repos\Csharp\Csharp\obj\Debug\Csharp.exe
+C:\Users\adalb\source\repos\Csharp\Csharp\obj\Debug\Csharp.pdb
